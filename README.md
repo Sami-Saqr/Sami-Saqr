@@ -33,10 +33,10 @@
 ### 🚀 My Projects
 | Project | Description | Tools |
 |----------|--------------|--------|
-| 📱 **E-Commerce App** | Full-featured app with Firebase Auth, Firestore, and Provider state management | Flutter, Firebase |
+| 📱 **Tune App** | The app about play music on screen like biano | Flutter |
 | 🎧 **Music Player UI** | Beautiful music player with animations and custom themes | Flutter |
 | 🌦️ **Weather App** | Real-time weather updates using REST API | Flutter, HTTP, JSON |
-| 🔐 **Auth Flow Demo** | Modern Firebase authentication setup | Flutter, Firebase Auth |
+| 🔐 **To Do App** | Modern Firebase authentication setup | Flutter, Firebase Auth |
 
 ---
 
